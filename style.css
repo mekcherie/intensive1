@@ -19,7 +19,7 @@ main > section, main > footer {
     justify-content: space-between;
     align-items: baseline;
     padding: 1em;
-    background-color: darkolivegreen;
+    background-color: burlywood;
     color: black;
     display: flex;
 }
@@ -92,7 +92,7 @@ nav ul a:hover {
     font-size: bold; 
 }
 
-#Gallery ul {
+#Info ul {
     list-style: none;
     margin: 0;
     padding: 0;
@@ -100,7 +100,7 @@ nav ul a:hover {
     justify-content: center;
 }
 
-#Gallery > h2 {
+#Info > h2 {
     margin: 1em;
     font-size: 3em;
     text-align: center;
